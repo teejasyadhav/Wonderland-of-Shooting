@@ -117,7 +117,7 @@ function draw() {
           burstSound.play();
           tankGroup.get(i).destroy();
           bullets.destroy();
-          score = score + 50;
+          score = score + 100;
         }
     }
 
